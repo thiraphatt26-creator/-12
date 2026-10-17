@@ -1,0 +1,2 @@
+// Supabase > Project Settings > API
+window.CFG = { URL: 'https://pjjgyslagwvfckojhcpt.supabase.co', KEY: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InBqamd5c2xhZ3d2ZmNrb2poY3B0Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTIxODg3MDYsImV4cCI6MjEwNzc2NDcwNn0.d-97e1E8_Wvar0YHP8jddVu2Y0j6RGe2eKFtzrK2TBg' };
